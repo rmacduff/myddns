@@ -1,8 +1,8 @@
-indy-ddns
+myddns
 =========
 
-A client script to manage a dynamic DNS record using Bind. 
+A bash script that maintains a dynamic DNS record.
 
-Process and script inspired by:
+Inspired by:
 
 http://nexus.zteo.com/blog/your-own-dynamic-dns-in-3-steps/
